@@ -1,0 +1,20 @@
+.b1{
+    border-style: dotted;
+    border-width: 4px;
+}
+.b2{
+    border-style: dashed;
+    border-width: 4px;
+}
+.b3{
+    border-style: double;
+    border-width: 4px;
+}
+.b4{
+    border-style: ridge;
+    border-width: 4px;
+}
+.b5{
+    border-style: solid;
+    border-width: 4px;
+}
